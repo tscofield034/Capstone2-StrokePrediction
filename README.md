@@ -47,7 +47,10 @@ Then, we performed some additional analysis on the top models:
 
 **WINNER: CatBoost Classifier**
 
-![](./_README_files/confusion_matrices.png)
+<p align="center">
+Feature Importance: <br/>
+<img src="https://imgur.com/fV1u9J4" height="80%" width="80%" alt="confusion matrices"/>
+<br />
 
 ## 5. Future Improvements
 
