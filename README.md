@@ -51,4 +51,4 @@ Then, we performed some additional analysis on the top models:
 
 ## 5. Future Improvements
 
-* In future work, this model could be refined with additional observations (more patients) and additional features. Perhaps, there are other features that doctors use in practice today to determine if a patient is at risk for strokes that would also be useful for our model. Also, additional parameter tuning could be performed to our existing algorithms or perhaps additional algorithms could be tested such as neural networks.
+* In future work, this model could be refined with additional observations (more patients) and additional features. Perhaps, there are other features that doctors use in practice today to determine if a patient is at risk for strokes that would also be useful for our model. Also, additional parameter tuning could be performed to our existing algorithms. Additonal algorithms such as neural networks could also be applied to the data.
