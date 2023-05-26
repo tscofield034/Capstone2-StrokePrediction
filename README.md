@@ -49,7 +49,7 @@ Then, we performed some additional analysis on the top models:
 
 <p align="center">
 Feature Importance: <br/>
-<img src="https://imgur.com/fV1u9J4" height="80%" width="80%" alt="confusion matrices"/>
+<img src="https://i.imgur.com/fV1u9J4.png" height="80%" width="80%" alt="confusion matrices"/>
 <br />
 
 ## 5. Future Improvements
